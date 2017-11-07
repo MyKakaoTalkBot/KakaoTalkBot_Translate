@@ -16,9 +16,9 @@
     <string name="script_save_done">스크립트의 저장이 완료되었습니다.</string>
     <string name="script_save_error">스크립트 저장 중 오류가 발생했습니다.</string>
     <string name="save">저장</string>
-    <string name="need_reload">저장 후에는 스크립트 리로드가 필요합니다.\n\n</string>
-    <string name="enable_interpreter">인터프리터 모드 활성화 (컴파일 모드 비활성화)\n</string>
-    <string name="disable_interpreter">컴파일 모드 활성화 (인터프리터 모드 비활성화)\n</string>
+    <string name="need_reload">저장 후에는 스크립트 리로드가 필요합니다.</string>
+    <string name="enable_interpreter">인터프리터 모드 활성화 (컴파일 모드 비활성화)</string>
+    <string name="disable_interpreter">컴파일 모드 활성화 (인터프리터 모드 비활성화)</string>
     <string name="enable_compat_kakao">카카오봇 호환 모드 활성화</string>
     <string name="disable_compat_kakao">카카오봇 호환 모드 비활성화</string>
     <string name="save_compat_setting">호환성 설정이 적용되었습니다.</string>
@@ -39,7 +39,6 @@
     <string name="exit_kakaotalk_bot">종료</string>
     <string name="response_error">response 메소드가 존재하지 않거나, 오류가 있습니다.</string>
     <string name="enable_light_theme">밝은 테마 사용하기 (실험적)</string>
-    <string name="restart_now">테마 변경을 위해 재시작이 필요합니다.</string>
     <string name="restart_for_theme">테마 적용을 위해 재시작이 필요합니다.</string>
     <string name="use_opt_mode">최적화 모드 사용하기 (실험적)</string>
     <string name="enable_javascript_optimization">자바스크립트 최적화 모드 활성화</string>
