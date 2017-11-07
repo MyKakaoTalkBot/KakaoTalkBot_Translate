@@ -40,8 +40,8 @@
     <string name="response_error">The Response Method does Not Exist or There is an Error!</string>
     <string name="enable_light_theme">Use Bright Theme (Experimental)</string>
     <string name="restart_now">A Restart is Required to Change the Theme.</string>
-    <string name="restart_for_theme">테마 적용을 위해 재시작이 필요합니다.</string>
-    <string name="use_opt_mode">최적화 모드 사용하기 (실험적)</string>
-    <string name="enable_javascript_optimization">자바스크립트 최적화 모드 활성화</string>
-    <string name="disable_javascript_optimization">자바스크립트 최적화 모드 비활성화</string>
+    <string name="restart_for_theme">A Restart is Required to Apply the Theme.</string>
+    <string name="use_opt_mode">Use Script Optimization Mode (Experimental)</string>
+    <string name="enable_javascript_optimization">Enabled JavaScript Optimization Mode</string>
+    <string name="disable_javascript_optimization">Disabled JavaScript Optimization Mode</string>
 </resources>
