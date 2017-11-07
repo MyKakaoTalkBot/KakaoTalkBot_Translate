@@ -16,9 +16,9 @@
     <string name="script_save_done">Successfully Saved Script.</string>
     <string name="script_save_error">An Error Occurred While Saving the Script!</string>
     <string name="save">Save</string>
-    <string name="need_reload">You Have to Reload After Saving the Script.\n\n</string>
-    <string name="enable_interpreter">Enabled Interpreter Mode (Disabled Compile Mode)\n</string>
-    <string name="disable_interpreter">Enabled Compile Mode (Disabled Interpreter Mode)\n</string>
+    <string name="need_reload">You Have to Reload After Saving the Script.</string>
+    <string name="enable_interpreter">Enabled Interpreter Mode (Disabled Compile Mode)</string>
+    <string name="disable_interpreter">Enabled Compile Mode (Disabled Interpreter Mode)</string>
     <string name="enable_compat_kakao">Enabled Kakao Bot Compatible Mode</string>
     <string name="disable_compat_kakao">Disabled Kakao Bot Compatible Mode</string>
     <string name="save_compat_setting">Compatibility Settings are Applied.</string>
@@ -39,7 +39,6 @@
     <string name="exit_kakaotalk_bot">STOP</string>
     <string name="response_error">The Response Method does Not Exist or There is an Error!</string>
     <string name="enable_light_theme">Use Bright Theme (Experimental)</string>
-    <string name="restart_now">A Restart is Required to Change the Theme.</string>
     <string name="restart_for_theme">A Restart is Required to Apply the Theme.</string>
     <string name="use_opt_mode">Use Script Optimization Mode (Experimental)</string>
     <string name="enable_javascript_optimization">Enabled JavaScript Optimization Mode</string>
