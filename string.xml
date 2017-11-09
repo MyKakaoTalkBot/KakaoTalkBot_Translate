@@ -44,4 +44,13 @@
     <string name="use_opt_mode">최적화 모드 사용하기 (실험적)</string>
     <string name="enable_javascript_optimization">자바스크립트 최적화 모드 활성화</string>
     <string name="disable_javascript_optimization">자바스크립트 최적화 모드 비활성화</string>
+    <string name="push_to_copy_able">꾹 누르면 복사할 수 있습니다.</string>
+    <string name="main_tab_title">메인</string>
+    <string name="logger_tab_title">로거</string>
+    <string name="script_edit_tab_title">스크립트 수정</string>
+    <string name="debug_tab_title">디버그 모드</string>
+    <string name="compat_tab_title">호환성 설정</string>
+    <string name="permission_setting">권한 설정하기</string>
+    <string name="script_activity_button">스크립트 액티비티</string>
+    <string name="script_reload_button">스크립트 리로드</string>
 </resources>
