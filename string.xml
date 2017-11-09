@@ -53,4 +53,5 @@
     <string name="permission_setting">권한 설정하기</string>
     <string name="script_activity_button">스크립트 액티비티</string>
     <string name="script_reload_button">스크립트 리로드</string>
+    <string name="on_opt_error_change_normal_mode">최적화 도중 에러가 발생하여 일반 모드로 변경됩니다.</string>
 </resources>
