@@ -44,4 +44,13 @@
     <string name="use_opt_mode">Use Script Optimization Mode (Experimental)</string>
     <string name="enable_javascript_optimization">Enabled JavaScript Optimization Mode</string>
     <string name="disable_javascript_optimization">Disabled JavaScript Optimization Mode</string>
+    <string name="push_to_copy_able">Press and hold to copy.</string>
+    <string name="main_tab_title">Main</string>
+    <string name="logger_tab_title">Logger</string>
+    <string name="script_edit_tab_title">Script Editor</string>
+    <string name="debug_tab_title">Debug Mode</string>
+    <string name="compat_tab_title">Compatible Setting</string>
+    <string name="permission_setting">Permission Setting</string>
+    <string name="script_activity_button">Script Activity</string>
+    <string name="script_reload_button">Script Reload</string>
 </resources>
