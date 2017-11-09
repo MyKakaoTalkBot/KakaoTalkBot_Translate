@@ -53,4 +53,5 @@
     <string name="permission_setting">Permission Setting</string>
     <string name="script_activity_button">Script Activity</string>
     <string name="script_reload_button">Script Reload</string>
+    <string name="on_opt_error_change_normal_mode">An error occurred during optimazation and changed to normal mode.</string>
 </resources>
